@@ -3,6 +3,4 @@ The KHMD Community's Blog Reading App
 	
 	Work in Progress
 	
-										Check Issues tab for problems
-										
-										Check Project Wiki for Roadmap
+										Check the Original Repo at <https://github.com/gautampadiyar/Khmd_Reader> to find all the up-dp-date code.
